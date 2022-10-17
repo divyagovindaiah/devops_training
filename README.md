@@ -1,5 +1,13 @@
 # devops_data_computation
-## task one to create directroy using linux commands and create file and copy the some date into that file
+## Task one to create Directroy using linux commands and create file and copy the some date into that file
+*In my first Task using the command line commands created the directroy*
+*the follwing are the commands*
+*mkdir devops*
+*touch data.txt*
+*using cp command to copy the data*
+
+
+
 ## second task is to create a readme file and push the code on it 
 *in my first task i used the mkdir command and file name as devops after that i use touch commnad to create a file data.txt 
 *in my second task first i create a repo repo name is devops-data-computation 
