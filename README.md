@@ -8,18 +8,17 @@
 
 
 
-## second task is to create a readme file and push the code on it 
-*in my first task i used the mkdir command and file name as devops after that i use touch commnad to create a file data.txt 
-*in my second task first i create a repo repo name is devops-data-computation 
-afrer that in commnd line using basic command like 
-git init , 
-git status and 
-also push the readme file in terminal git add README.md 
-and git commit -s -m "updated README.md" and 
-finally git push  
- and git add.
- and to generate inital commit using command git commit -s -m "intial commit" ,
- i push the my spark code into this repo i add this repo url using git remote add origin 
-git@github.com:divyagovindaiah/devops-data-computation.git
-after this used git push to push the code
+## Second task is to create a readme file and push the code on it 
+*In my second task first i create a repository  repo name is devops-data-computation 
+*Afrer that in commnd line using basic commands*
+*git init*, 
+*git status*
+*also push the readme file in terminal git add README.md*
+*git commit -s -m "updated README.md"*
+*finally git push* 
+ *and git add.*
+ *and to generate inital commit using command git commit -s -m "intial commit"*,
+ *i push the my spark code into this repo i add this repo url using git remote add origin*
+*git@github.com:divyagovindaiah/devops-data-computation.git*
+*after this used git push to push the code*
 
