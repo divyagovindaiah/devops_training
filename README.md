@@ -9,7 +9,7 @@
 
 
 ## Second task is to create a readme file and push the code on it 
-*In my second task first i create a repository  repo name is devops-data-computation 
+*In my second task first i create a repository  repo name is devops-data-computation*
 *Afrer that in commnd line using basic commands*
 *git init*, 
 *git status*
