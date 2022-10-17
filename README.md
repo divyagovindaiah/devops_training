@@ -16,9 +16,9 @@
 *also push the readme file in terminal git add README.md*
 *git commit -s -m "updated README.md"*
 *finally git push* 
- *and git add.*
- *and to generate inital commit using command git commit -s -m "intial commit"*,
- *i push the my spark code into this repo i add this repo url using git remote add origin*
+*and git add.*
+*and to generate inital commit using command git commit -s -m "intial commit"*,
+*i push the my spark code into this repo i add this repo url using git remote add origin*
 *git@github.com:divyagovindaiah/devops-data-computation.git*
 *after this used git push to push the code*
 
