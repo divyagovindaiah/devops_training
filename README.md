@@ -8,7 +8,7 @@
 - *touch data.txt*
 - *using cp command to copy the data*
 
-## Second task is to create a readme file and push the code on it 
+## Second task is to create a readme file and push it into github
 - *In my second task first i created a  repository and named repo as devops-data-computation*
 - *Afrer that in commandline using basic commands*
 - *git init*, 
