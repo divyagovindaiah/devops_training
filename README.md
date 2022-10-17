@@ -2,7 +2,7 @@
 
 ## Task one to create Directory using linux commands and create file and copy the some data into that file
 
-- *In my first Task am suing  the command line commands to  create a  Directory*
+- *In my first Task am using  the command line commands to  create a  Directory*
 - *the following are the commands*
 - *mkdir devops*
 - *touch data.txt*
