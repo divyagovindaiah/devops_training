@@ -1,6 +1,6 @@
 # Devops_training
 
-##  To create Directory using linux commands and create file and copy the some data into that file
+##  Create Directory using linux commands and create file and copy the some data into that file
 
 - *In this devops Task am using  the command line commands to create a Directory*
 - *the following are the commands*
@@ -8,7 +8,7 @@
 - *touch data.txt*
 - *using cp command to copy the data*
 
-##  to create a readme file and push it into github
+##  Create a readme file and push it into github
 - *In this task first i need  created a  repository and named  as devops-data-computation*
 - *After that in commandline using basic commands*
 - *git init*
@@ -18,8 +18,8 @@
 - *finally git push* 
 - *and git add.*
 
-##  to rename existing file using  terminal  and learn about ifconfig  and  sudo 
--  *using command like  mv sourcefile destination file* 
+##  Rename existing file using  terminal  and learn about ifconfig  and  sudo 
+-  *Using command like  mv sourcefile destination file* 
 -  *ifconfig.a :  This option is used to display all the interfaces available.*
 -  *ifconfig -s: This option is used to display the short list instead of details*
 -  *ifconfig -v: Run the command in verbose mode – log more details about execution.
@@ -28,7 +28,7 @@
 - *sudo apt-get update*
 - *sudo -V | -h | -l | -v | -k | -K | -s | [ -H ] [-P ] [-S ] [ -b ] |* 
 
-## to learn about the AWS and basics related to that like VPC ,subnet,availability zone and security group 
+## Learn about the AWS and basics related to that like VPC ,subnet,availability zone and security group 
 - *In this i learned about what is AWS and what are all the  advantages and IaaS,PaaS,SaaS and region like that concepts*
 - *And related about resources and VPC,subnet,security group and availability zones* 
 
