@@ -32,7 +32,9 @@
 - *In this i learned about what is AWS and what are all the  advantages and IaaS,PaaS,SaaS and region like that concepts*
 - *And related about resources and VPC,subnet,security group and availability zones* 
 ## Learned about the grep command and how to copy README.md file into another Directory and how to delete files and directory with some conditions and how to check file with line
-- * delete the file using command like*
+- *grep word filename*
+- *grep -c word filename*
+- *Delete the file using command like*
 - *rm filename* 
 - *-f: Forces the removal of all files or directories.*
 - *i: Prompts for confirmation before removing.*
@@ -41,6 +43,14 @@
 - *d: Removes empty directories.*
 - *v: Provides a verbose output.*
 - *-help: Displays the help text.*
+- *Delete the directory using rm -r directoryname and rm -d directoryname commands*
+- *Check the file in the level of permissions*
+- *ls -l filename*
+- *chmod u=rwx,g=rwx,o=rwx [file_name]*
+- *r(ead) has the value of 4*
+- *w(rite) has the value of 2*
+- *(e)x(ecute) has the value of 1*
+- *no permission has the value of 0*
 
 
 
