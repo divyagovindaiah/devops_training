@@ -31,6 +31,16 @@
 ## Learn about the AWS and basics related to that like VPC ,subnet,availability zone and security group 
 - *In this i learned about what is AWS and what are all the  advantages and IaaS,PaaS,SaaS and region like that concepts*
 - *And related about resources and VPC,subnet,security group and availability zones* 
+## Learned about the grep command and how to copy README.md file into another Directory and how to delete files and directory with some conditions and how to check file with line
+- * delete the file using command like*
+- *rm filename* 
+- *-f: Forces the removal of all files or directories.*
+- *i: Prompts for confirmation before removing.*
+- *I: Prompts once before removing more than three files or when removing recursively.*
+- *r: Removes directories and their content recursively.*
+- *d: Removes empty directories.*
+- *v: Provides a verbose output.*
+- *-help: Displays the help text.*
 
 
 
