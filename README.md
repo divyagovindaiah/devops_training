@@ -8,7 +8,7 @@
 - *touch data.txt*
 - *using cp command to copy the data*
 
-###  Create a readme file and push it into github
+##  Create a readme file and push it into github
 - *In this task first i need  created a  repository and named  as devops-data-computation*
 - *After that in commandline using basic commands*
 - *git init*
@@ -31,6 +31,7 @@
 ## Learn about the AWS and basics related to that like VPC ,subnet,availability zone and security group 
 - *In this i learned about what is AWS and what are all the  advantages and IaaS,PaaS,SaaS and region like that concepts*
 - *And related about resources and VPC,subnet,security group and availability zones* 
+- 
 ## Learned about the grep command and how to copy README.md file into another Directory and how to delete files and directory with some conditions and how to check file with line
 - *grep word filename*
 - *grep -c word filename*
