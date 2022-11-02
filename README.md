@@ -52,6 +52,23 @@
 - *w(rite) has the value of 2*
 - *(e)x(ecute) has the value of 1*
 - *no permission has the value of 0*
+## docker 
+- *docker instalation*
+- *create  directory and create docker file*
+- *inside dockerfile we need to add dockervariable*
+- *create docker image using command docker build -t <image-name:tag name*
+- *list the images using command docker images*
+- *docker run <imagename>*
+- *list the container docker ps*
+- *docker start <containername>*
+- *push image into dockerhub docker tag <imagename:tagname> dockerhubusername/<imagename:tagname>*
+- *docker login*
+- *docker push username/imagename*
+- docker pull username/imagename*
+
+
+
+-
 
 
 
