@@ -56,7 +56,7 @@
 - *docker instalation*
 - *create  directory and create docker file*
 - *inside dockerfile we need to add dockervariable*
-- *create docker image using command docker build -t <image-name:tag name*
+- *create docker image using command docker build -t <image-name:tag name>*
 - *list the images using command docker images*
 - *docker run <imagename>*
 - *list the container docker ps*
