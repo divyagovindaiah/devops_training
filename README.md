@@ -64,7 +64,7 @@
 - *push image into dockerhub docker tag <imagename:tagname> dockerhubusername/<imagename:tagname>*
 - *docker login*
 - *docker push username/imagename*
-- docker pull username/imagename*
+- *docker pull username/imagename*
 
 
 
