@@ -2,17 +2,17 @@
 
 FROM node:latest 
 
-RUN mkdir -p /home/stpl/Desktop/node-docker 
+RUN mkdir -p /node-docker 
 
-WORKDIR /home/stpl/Desktop/node-docker
+WORKDIR /node-docker
 
-COPY package.json /home/stpl/Desktop/node-docker
+COPY package.json /node-docker
 
 RUN npm install 
 
-COPY . /home/stpl/Desktop/node-docker
+COPY . /node-docker
  
-EXPOSE 3000
+EXPOSE 8080
 
 CMD [ "npm", "start" ]
 
